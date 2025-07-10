@@ -123,7 +123,7 @@ REACT_APP_SERVER = your_backend_base_url
 
 ![alt text](assets/IMG-20250630-WA0041[1].jpg)
 
--- Payment Screen
+- Payment Screen
 
 ![alt text](<assets/WhatsApp Image 2025-06-30 at 23.45.30_71c2451f.jpg>)
 
