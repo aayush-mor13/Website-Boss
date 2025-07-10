@@ -24,10 +24,10 @@ WebsiteBoss is a full-stack web automation tool designed to help MSMEs (Micro, S
 - JWT for authentication
 - Razorpay for payments
 
-### Database
+### 🗄️ Database
 - MongoDB
 
-### Hosting
+### 🌐 Hosting
 - AWS EC2
 
 ## 📁 Folder Structure
@@ -45,19 +45,19 @@ SmartShelf/
   - JWT-based login system
   - Role-based access (Admin vs Company User)
 
-  - **E-Commerce:**
+- **E-Commerce:**
   - Add-to-cart and order management
   - Dynamic product listings based on business data
   - Cart and My Orders page
 
-  - **Admin Controls:**
+- **Admin Controls:**
   - Add/Edit/Delete products
   - Update company branding and details
 
-  ## 🌐 How It Works
+## 🌐 How It Works
 
 1. Select an industry template (e.g.,Pharmacy, Cosmetics)
-2. Fill out business details (name, logo,tagline, about, products, etc.)
+2. Fill out business details (name, logo, tagline, about, products, etc.)
 3. Website is generated automatically with dynamic content
 4. Customers can browse, order, and pay online
 5. Admin and company users can manage content and orders from the dashboard
